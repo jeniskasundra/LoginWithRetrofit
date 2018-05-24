@@ -1,0 +1,124 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\42e604a3a49a5b71195ca6b3bb55af85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\53037e4b2a0a3b2700b3a32aacddc19b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a2c801a6cc739e6934effda2cae842dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\library-1.3.0.aar\42d762aa3063e085ce358ed174150826\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6374adf8c1dc98b50a4625ec885ea84c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\07c03c8f686c3ebd654bc455bf3ffa36\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99846417ca76bb2e4062f229a7b22c09\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11ee4bfd0272ca9b976f8fa6dfd4d19a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a2995f961cb7d74d8c1524ac1b0413c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\74d1a7e5bd9fcdbfbd293ee330512f27\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5cb42cb97f2269708a1b08a847c5a244\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\cc87e1b0efa279bca8d7bcdc4451d735\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\be4abe1ce476d335a4524d2f338708a0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06d11e876e52caa40c400e5c46a7b070\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6fec748ad028736ad4136f2dbcb5cc89\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9a1f30cd4b033bf0e5ac3c6e2989b76\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2657a827a3af42bc8a36c90999666ac5\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:9:5-31:19
+	android:label
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:12:9-41
+	android:icon
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:11:9-45
+	android:allowBackup
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:13:9-42
+activity#com.example.loginwithretrofit.activity.LoginActivity
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:14:9-22:20
+	android:name
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:14:19-57
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.loginwithretrofit.activity.RegisterUserActivity
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:23:9-25:86
+	android:configChanges
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:25:13-74
+	android:name
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:24:13-58
+activity#com.example.loginwithretrofit.activity.WelComeActivity
+ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:26:9-30:20
+	android:label
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml:27:13-53
+uses-sdk
+INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\42e604a3a49a5b71195ca6b3bb55af85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\42e604a3a49a5b71195ca6b3bb55af85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\53037e4b2a0a3b2700b3a32aacddc19b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\53037e4b2a0a3b2700b3a32aacddc19b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a2c801a6cc739e6934effda2cae842dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a2c801a6cc739e6934effda2cae842dc\AndroidManifest.xml:20:5-44
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\library-1.3.0.aar\42d762aa3063e085ce358ed174150826\AndroidManifest.xml:7:5-9:41
+MERGED from [com.baoyz.swipemenulistview:library:1.3.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\library-1.3.0.aar\42d762aa3063e085ce358ed174150826\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6374adf8c1dc98b50a4625ec885ea84c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\6374adf8c1dc98b50a4625ec885ea84c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\07c03c8f686c3ebd654bc455bf3ffa36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\07c03c8f686c3ebd654bc455bf3ffa36\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99846417ca76bb2e4062f229a7b22c09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\99846417ca76bb2e4062f229a7b22c09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11ee4bfd0272ca9b976f8fa6dfd4d19a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11ee4bfd0272ca9b976f8fa6dfd4d19a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a2995f961cb7d74d8c1524ac1b0413c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a2995f961cb7d74d8c1524ac1b0413c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\74d1a7e5bd9fcdbfbd293ee330512f27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\74d1a7e5bd9fcdbfbd293ee330512f27\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5cb42cb97f2269708a1b08a847c5a244\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\5cb42cb97f2269708a1b08a847c5a244\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\cc87e1b0efa279bca8d7bcdc4451d735\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\cc87e1b0efa279bca8d7bcdc4451d735\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\be4abe1ce476d335a4524d2f338708a0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\be4abe1ce476d335a4524d2f338708a0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06d11e876e52caa40c400e5c46a7b070\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\06d11e876e52caa40c400e5c46a7b070\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6fec748ad028736ad4136f2dbcb5cc89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\6fec748ad028736ad4136f2dbcb5cc89\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9a1f30cd4b033bf0e5ac3c6e2989b76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\c9a1f30cd4b033bf0e5ac3c6e2989b76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2657a827a3af42bc8a36c90999666ac5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Jenis\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2657a827a3af42bc8a36c90999666ac5\AndroidManifest.xml:20:5-44
+INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+		ADDED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Studio\LoginWithRetrofit\app\src\main\AndroidManifest.xml
